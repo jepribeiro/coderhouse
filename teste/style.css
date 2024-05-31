@@ -99,6 +99,7 @@ a {
   height: 48px;
   justify-content: center;
   align-items: center;
+  border-radius: 12px;
 }
 
 .add-to-cart-icon {
